@@ -9,3 +9,9 @@ import my_colormaps
 import matplotlib.pyplot as plt     
 
 Then just use as you would a normal plt cm
+
+## Colourmaps 
+
+### nanoanalysis bright 
+![nanoanalysis bright](nanoanalysis bright.png)
+
