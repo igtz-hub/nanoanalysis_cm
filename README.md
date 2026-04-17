@@ -1,4 +1,4 @@
-# nanoanalysis_colours
+# nanoanalysis_cm
 The nanoanlysis colour package for custom Matplotlib colourmaps
 
 ## Installation
